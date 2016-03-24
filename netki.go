@@ -9,7 +9,7 @@ import (
 	"encoding/asn1"
 	"encoding/hex"
 	"fmt"
-	"github.com/bitly/go-simplejson"
+	"github.com/FactomProject/go-simplejson"
 	"io/ioutil"
 	"math/big"
 	"net/http"

@@ -13,7 +13,7 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/bitly/go-simplejson"
+	"github.com/FactomProject/go-simplejson"
 	"io/ioutil"
 	"math/big"
 	"net/http"

@@ -8,7 +8,7 @@ import (
 	"crypto/x509"
 	"encoding/asn1"
 	"fmt"
-	"github.com/bitly/go-simplejson"
+	"github.com/FactomProject/go-simplejson"
 	"github.com/bmizerany/assert"
 	"math/big"
 	"net/http"
